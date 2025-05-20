@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Welcome to my Docusaurus site!
+            Welcome to my Blog!
           </Link>
         </div>
       </div>
