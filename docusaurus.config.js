@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Veven's Blog',
+  title: 'Veven Blog',
   tagline: 'Welcom to my Blog',
   favicon: 'img/favicon.ico',
 
